@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="value_textview">12dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="img_width384">384dp</dimen>
+    <dimen name="img_height249">249dp</dimen>
+</resources>

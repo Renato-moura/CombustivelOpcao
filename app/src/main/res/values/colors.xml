@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#763827</color>
+    <color name="colorAccent">#00aa4f</color>
+    <color name="background_seekbar">#c6f7bd</color>
+    <color name="cor1">#aa5139</color>
+    <color name="accent_device_default_light">#003df5</color>
+    <color name="texto_cor">#ab7538</color>
+    <color name="bac_ground_1">#27556c</color>
+</resources>

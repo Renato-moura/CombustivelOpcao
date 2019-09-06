@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fuel Option</string>
+    <string name="gas_textview">Gasoline</string>
+    <string name="etanol_textview">Etanol</string>
+    <string name="better_option">----------</string>
+    <string name="better_label">Best choice:</string>
+    <string name="welcome">welcome to android app developmen</string>
+    <string name="valor_atual_gasolina">---</string>
+    <string name="valor_atual_etanol">---</string>
+</resources>

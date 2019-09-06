@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Opção de Combustivel</string>
+    <string name="gas_textview">Gasolina</string>
+    <string name="etanol_textview">Etanol</string>
+    <string name="better_option">----------</string>
+    <string name="better_label">Melhor escolha:</string>
+</resources>
